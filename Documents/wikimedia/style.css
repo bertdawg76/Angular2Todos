@@ -1,0 +1,36 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #FFFFFF ;
+    
+}
+
+
+
+
+.one{
+    text-align: right;
+    
+    
+}
+.eight {
+    float: right;
+    height: 400px;
+    width: 100%;
+    border-bottom: 2px solid black;
+}
+#footer {
+    text-align: center;
+}
+.footerTwo {
+    float: left; 
+    margin-right: 10px;
+
+}
+.footerThree {
+    height: 15px;
+    margin-left: 45%;
+    
+}

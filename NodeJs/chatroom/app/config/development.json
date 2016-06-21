@@ -1,0 +1,19 @@
+{
+  "host": "http://localhost:8400",
+  "dbURI": "mongodb://chatroom:bert@ds025792.mlab.com:25792/bertchatroom",
+  "sessionSecret": "ILoveDonuts",
+  "fb": {
+    "clientID": "750566225083414",
+    "clientSecret": "e7d49064e8e1cdb392d77a7dd564c5df",
+    "callbackURL": "//localhost:8400/auth/facebook/callback",
+    "profileFields": ["id", "displayName", "photos"]
+  },
+  "twitter": {
+    "consumerKey": "m0uOjvNjP3pO7dyqoqQVGKDcu",
+    "consumerSecret": "fogZGPcdCGzz2YBhE7vtmVtGJZbscgAYYZGt3mQ8vqYSyBEEmo",
+    "callbackURL": "//localhost:8400/auth/twitter/callback",
+    "profileFields": ["id", "displayName", "photos"]
+  },
+  "userRoles": ["guest", "user", "admin"]
+
+}

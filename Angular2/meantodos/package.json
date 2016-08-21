@@ -1,0 +1,19 @@
+{
+  "name": "meantodos",
+  "version": "1.0.0",
+  "description": "Todo backend server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: not test specified\" && exit 1"
+  },
+  "author": "Bert Coleman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser":"*",
+    "ejs":"*",
+    "express":"*",
+    "mongojs":"*",
+    "mongoose":"*"
+
+  }
+}

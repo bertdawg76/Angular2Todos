@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;helloGo&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/goWorkspace/src/firstGo" />
+      <root url="file://$USER_HOME$/goWorkspace/src/github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
